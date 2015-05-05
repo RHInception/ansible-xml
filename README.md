@@ -1,5 +1,14 @@
-[![Build Status](https://travis-ci.org/RHInception/ansible-xml.svg?branch=master)](https://travis-ci.org/RHInception/ansible-xml)
-# ansible-xml
+# Long Live Ansible-XML!
+
+Ownership of this project has been transferred to [@cmprescott/ansible-xml](https://github.com/cmprescott/ansible-xml)
+
+Please direct all contributions to the new location.
+
+thanks!
+
+
+# Old README contents are below
+
 
 [Ansible](https://github.com/ansible/ansible) module for manipulating
 bits and pieces of XML files and strings.
@@ -12,10 +21,6 @@ bits and pieces of XML files and strings.
 
 
 # Notes
-
-## We are giving up ownership of this module. This README will be updated with a notice once a new home is found
-
-# Notes (cont...)
 
 * This software is available under the terms of the GPLv2 license.
 * Hi there, we have unit tests!
